@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "sharec": "sharec"
+  },
   "devDependencies": {
     "prettier": "2.0.5"
   }
