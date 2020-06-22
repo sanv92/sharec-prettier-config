@@ -1,0 +1,41 @@
+{
+  "name": "@sanv/sharec-prettier-config",
+  "version": "1.0.17",
+  "description": "Store Prettier config in one place and share between projects without any pain",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "postinstall": "sharec"
+  },
+  "files": [
+    "configs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanderV1992/sharec-prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SanderV1992/sharec-prettier-config/issues"
+  },
+  "homepage": "https://github.com/SanderV1992/sharec-prettier-config#readme",
+  "license": "ISC",
+  "keywords": [
+    "sharec",
+    "sharec configs",
+    "config",
+    "configuration",
+    "sharec prettier",
+    "prettier config",
+    "prettier configuration",
+    "sharec prettier config",
+    "sharec prettier configuration"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "sharec": "2.2.1"
+  },
+  "peerDependencies": {
+    "sharec": "2.2.*"
+  }
+}
